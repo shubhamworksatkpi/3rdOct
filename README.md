@@ -23,4 +23,4 @@
 
  
 
-6.Create a map which should contain employees and their employee ids.
+6. Create a map which should contain employees and their employee ids.
