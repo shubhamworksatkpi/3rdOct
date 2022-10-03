@@ -1,6 +1,7 @@
 # 3rd Oct Assignment
 
-<center>--------- Please visit the 'assignment' branch to view the programs! --------- </center>
+                             --------- Please visit the 'assignment' branch to view the programs! ---------
+                             
 
 1. Create a new git repository of your choice and clone it in your local drive by using git bash or github desktop
 
