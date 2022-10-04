@@ -1,6 +1,6 @@
 package newassignment;
 
-public class MethodOverriding_ClassC{
+public class Question5_MethodOR_ClassC{
 
 //Below given is the written explanation of why the diamond problem arises in java with respect to classes.
 

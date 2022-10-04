@@ -1,6 +1,6 @@
 package newassignment;
 
-public class MethodOverriding_ClassA extends MethodOverriding_SuperClass{
+public class Question5_MethodOR_ClassA extends Question5_MethodOR_SuperClass{
 
 	@Override
 	public void method2(int[] ints) {

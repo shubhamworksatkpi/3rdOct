@@ -1,6 +1,6 @@
 package newassignment;
 
-public class MethodOverloading_ClassA extends MethodOverloading_SuperClass{
+public class Question5_MethodOL_ClassA extends Question5_MethodOL_SuperClass{
 	
 	
 	

@@ -1,6 +1,6 @@
 package newassignment;
 
-public abstract class MethodOverloading_SuperClass {
+public abstract class Question5_MethodOL_SuperClass {
 	
 	// method overloading i.e. same name different parameters
 	

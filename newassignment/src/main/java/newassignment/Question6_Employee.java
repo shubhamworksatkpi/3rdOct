@@ -1,21 +1,28 @@
 package newassignment;
-
 import java.util.HashMap;
+import java.util.Map;
+
 
 public class Question6_Employee {
-			
-		  public static void main(String[] args) {
+	
 
-		    // creation of a hashmap
-		    HashMap<String, Integer> employee = new HashMap<String,Integer>();
-		   
-		    // add elements to hashmap
-		    employee.put("ankit",  8734);
-		    employee.put("piyush", 1214);
-		    employee.put("shivam", 3235);
-		    employee.put("rahul",  7835);
-		    System.out.println("HashMap: " +  employee);
-		  }
+	public class Question6_Employee_Test {
+
+		
+				public void testAssertMap() {
+
+				  
+			    HashMap<String, Integer> emp = new HashMap<String,Integer>();
+			   
+			    // adding elements to hashmap
+			    emp.put("ankit",  8734);
+			    emp.put("piyush", 1214);
+			    emp.put("shivam", 3235);
+			    emp.put("rahul",  7835);
+			    System.out.println("HashMap: " +  emp);
+
+
+				}
 		}
 
-
+}
