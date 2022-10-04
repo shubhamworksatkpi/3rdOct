@@ -19,7 +19,7 @@ package newassignment;
 		    public String num(String n) {
 		        // TODO Auto-generated method stub
 		         n="y";
-		        return "good";
+		        return "KPI Partners";
 		    }
 
 		    public String string(String m) {

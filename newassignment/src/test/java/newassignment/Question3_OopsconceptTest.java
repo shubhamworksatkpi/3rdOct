@@ -15,7 +15,7 @@ import static org.junit.Assert.assertEquals;
 	        String num=n.num("y");
 	        String num1=m.string("n");
 	        String num2=A.num("y","n");
-	        assertEquals("good",num);
+	        assertEquals("KPI Partners",num);
 	        assertEquals("I'm Shubham K.",num1);
 	        assertEquals("this is method Overloading",num2);
 	        
